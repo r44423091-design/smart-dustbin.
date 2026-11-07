@@ -1,0 +1,24 @@
+Smart-Dustbin-Monitoring-System/
+│
+├── android_app/
+│   ├── main.py
+│   ├── requirements.txt
+│   └── screens/
+│
+├── backend/
+│   ├── app.py
+│   ├── firebase_config.py
+│   └── requirements.txt
+│
+├── esp32_firmware/
+│   └── smart_dustbin.ino
+│
+├── documentation/
+│   ├── project_overview.md
+│   ├── circuit_diagram.md
+│   └── installation_guide.md
+│
+├── screenshots/
+│
+├── .gitignore
+└── README.md
